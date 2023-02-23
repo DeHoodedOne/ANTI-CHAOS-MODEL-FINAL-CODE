@@ -1,2 +1,5 @@
 # ANTI-CHAOS-MODEL-FINAL-CODE
-This code is for the probabilistic analysis of sporting events
+This python code for the probabilistic analysis of sporting events
+First install IntelliJ IDEA
+Install Python 3.11
+Download Selenium Chrome Driver
